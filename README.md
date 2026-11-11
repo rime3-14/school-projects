@@ -12,6 +12,9 @@ Selected coursework from INSA Lyon. Each project below links to its public code 
 - [IRIS assistive vision prototype](https://github.com/rime3-14/iris-assistive-vision) — Python, OpenCV, model adapters
 - [Connect Four in Prolog](https://github.com/rime3-14/PROJET-PROLOG) — Prolog, rules, game-tree search
 - [MARS Banking Dashboard](mars.md) — systems architecture, React, TypeScript
+- [Introducing computing through Scratch](agir.md) — education workshop design
+- [Preventing SQL injection](sere.md) — defensive security review
+- [Formal verification of double-word arithmetic](gappa.md) — research internship, Gappa, floating-point error bounds
 
 ## 3A | Third year
 

@@ -6,4 +6,4 @@ The planner takes a street graph and a pickup-and-delivery request as XML. It fi
 
 I worked on time-aware route optimization and built route sheets for one or more couriers. A courier can inspect the ordered stops and export a route sheet as CSV.
 
-The TypeScript application builds, imports sample map and delivery XML, and serves its map and route-sheet pages. All 20 Jest tests pass. The team source repository is private.
+The TypeScript application builds and serves its map and route-sheet pages. A local check imported sample XML, assigned deliveries to a courier and calculated a feasible route. All 20 Jest tests pass. The team source repository is private.
