@@ -8,14 +8,21 @@ Selected coursework from INSA Lyon. Each project below links to its public code 
 - [Delivery Route Planner](delivery-planner.md) — TypeScript, shortest paths, pickup-and-delivery scheduling
 - [Awalé Online](awale.md) — C, TCP sockets, multiplayer game state
 - [DBpedia Film Explorer](film-explorer.md) — Python, FastAPI, SPARQL
+- [Flickr Lyon Photo Mining](flickr-lyon.md) — Python, geospatial clustering and text mining
 - [IRIS assistive vision prototype](https://github.com/rime3-14/iris-assistive-vision) — Python, OpenCV, model adapters
 - [Connect Four in Prolog](https://github.com/rime3-14/PROJET-PROLOG) — Prolog, rules, game-tree search
+- [MARS Banking Dashboard](mars.md) — systems architecture, React, TypeScript
 
 ## 3A | Third year
 
 - [AirWatcher](https://github.com/rime3-14/AirWatcher) — C++, sensor data and air quality analysis
 - [Apache Log Analysis](https://github.com/rime3-14/LogApacheAnalysis) — C++, access-log parsing, Graphviz
 - [Predict'IF](https://github.com/rime3-14/PREDICT-IF) — Java, Maven, JPA, customer and employee workflows
+
+## 2A | Second year
+
+- [AcroustiBat](acroustibat.md) — ESP32, MQTT, signal processing
+- [Chessussy](chessussy.md) — Python, Tkinter and a chess opponent
 
 ## 5A | Fifth year
 
